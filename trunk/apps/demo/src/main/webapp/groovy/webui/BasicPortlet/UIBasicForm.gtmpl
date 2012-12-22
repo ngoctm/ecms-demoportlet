@@ -1,0 +1,11 @@
+<%
+    /**
+     * Created by The eXo Platform SAS
+     * Author : eXoPlatform
+     *          ngoctm@exoplatform.com
+     * Dec 21, 2012
+     */
+%>
+<div class="$uicomponent.id">
+    <div style="color: red; font-weight: bold; font-size: 30px;"><%= uicomponent.getText() %></div>
+</div>
